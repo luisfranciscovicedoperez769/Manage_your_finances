@@ -23,7 +23,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
-*   [AppsFlyer] (https://www.appsflyer.com/legal/privacy-policy/)
+*   [AppsFlyer](https://www.appsflyer.com/legal/privacy-policy/)
 
 **Log Data**
 
