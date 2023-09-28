@@ -19,7 +19,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
