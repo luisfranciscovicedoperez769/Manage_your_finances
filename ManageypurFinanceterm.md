@@ -12,8 +12,6 @@ Link to Terms and Conditions of third-party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
-*   [Unity](https://unity3d.com/legal/terms-of-service)
 *   [One Signal](https://onesignal.com/tos)
 *   [AppsFlyer](https://www.appsflyer.com/legal/privacy-policy/)
 
